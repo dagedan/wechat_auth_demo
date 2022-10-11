@@ -1,0 +1,9 @@
+server:
+  port:80
+
+oauth:
+  wx:
+    appid:wxfa2d28116dc25784
+    appsecret:dc644987a3a3d5208fef403f008716ce
+  callback:
+    http:https://c579-106-57-255-252.ap.ngrok.io/wxcallback
